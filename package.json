@@ -17,7 +17,9 @@
 		"angularjs",
 		"ng-annotate"
 	],
-	"author": "DorianGrey",
+	"authors": [
+		"Christian Linne"
+	],
 	"license": "ISC",
 	"devDependencies": {
 		"jspm": "^0.17.0-beta.22",
