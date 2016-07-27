@@ -24,6 +24,12 @@ packages: {
   }
 }
 ```
+[plugin-typescript](https://github.com/frankwallis/plugin-typescript) may be configured as usual.
+
+# Thanks to
+- @frankwallis for creating [plugin-typescript](https://github.com/frankwallis/plugin-typescript)
+- @olov for creating [ng-annotate](https://github.com/olov/ng-annotate)
+
 # TODO
 - Test if a complete "proxy" behavior is required.
 
