@@ -6,7 +6,9 @@ Note: This plugin is and will only be tested with jspm 0.17-beta.
 Useful for annotating typescript sources containing angularjs code on the fly.
 # Installation
 Currently, you have to install it from github directly via:
-```jspm install --dev ts-ng-annotate=github:DorianGrey/plugin-typescript-ng-annotate@0.0.1```
+
+```jspm install --dev ts-ng-annotate=github:DorianGrey/plugin-typescript-ng-annotate@0.0.2```
+
 Naming the alias is up to you, the above is just a suggestion.
 
 # Usage
