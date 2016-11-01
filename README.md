@@ -7,7 +7,7 @@ Useful for annotating typescript sources containing angularjs code on the fly.
 # Installation
 Currently, you have to install it from github directly via:
 
-```jspm install --dev ts-ng-annotate=github:DorianGrey/plugin-typescript-ng-annotate@0.0.2```
+```jspm install --dev ts-ng-annotate=github:DorianGrey/plugin-typescript-ng-annotate@0.1.0```
 
 Naming the alias is up to you, the above is just a suggestion.
 
@@ -33,6 +33,6 @@ packages: {
 - @olov for creating [ng-annotate](https://github.com/olov/ng-annotate)
 
 # TODO
-- Test if a complete "proxy" behavior is required.
+- Test if a full "proxy" behavior is required.
 
 

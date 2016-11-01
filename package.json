@@ -1,6 +1,6 @@
 {
 	"name": "plugin-typescript-ng-annotate",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "SystemJS plugin to for transpiling and annotating angularjs code written in TS",
 	"main": "lib/plugin.js",
 	"scripts": {
@@ -30,8 +30,8 @@
 		"registry": "github",
 		"name": "DorianGrey/plugin-typescript-ng-annotate",
 		"dependencies": {
-			"plugin-ng-annotate": "github:DorianGrey/plugin-ng-annotate",
-			"plugin-typescript": "github:frankwallis/plugin-typescript@^5.0.9"
+			"plugin-ng-annotate": "github:DorianGrey/plugin-ng-annotate@^0.1.0",
+			"plugin-typescript": "github:frankwallis/plugin-typescript@^5.2.7"
 		},
 		"directories": {
 			"lib": "lib",
