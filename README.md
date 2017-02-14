@@ -1,3 +1,6 @@
+# WARNING
+This repository is no longer actively maintained. Feel free to pick the sources in case you want to develop it further.
+
 # Description
 This plugin provides the ability to use [ng-annotate](https://github.com/olov/ng-annotate) on typescript sources transpiled via [plugin-typescript](https://github.com/frankwallis/plugin-typescript) created by @frankwallis. To do so, it just pipes the output of [plugin-typescript](https://github.com/frankwallis/plugin-typescript) to [plugin-ng-annotate](https://github.com/DorianGrey/plugin-ng-annotate).
 
